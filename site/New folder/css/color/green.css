@@ -1,0 +1,46 @@
+a, 
+h1,
+h1::after,
+.btn.btn-primary,
+.navbar.fixed-left .container #main-menu .nav-item .nav-link.active,
+.service .card .card-header,
+.filters-group .btn.active,
+#project-grid .project-item a::after,
+.typed-cursor,
+#contact .icon {
+    color: #00a19a;
+}
+
+h1::after,
+.btn.btn-primary::after,
+.btn-primary:not(:disabled):not(.disabled).active, 
+.btn-primary:not(:disabled):not(.disabled):active, 
+.show > .btn-primary.dropdown-toggle,
+.btn.btn-secondary,
+.btn.btn-secondary:focus, 
+.btn.btn-secondary:not(:disabled):not(.disabled).active, 
+.btn.btn-secondary:not(:disabled):not(.disabled):active,
+.progress-wrap .progress .progress-bar,
+.owl-dots .owl-dot.active span,
+footer {
+    background-color: #00a19a;
+}
+
+.btn,
+.btn:hover,
+.btn.btn-primary:not(:disabled):not(.disabled).active, 
+.btn.btn-primary:not(:disabled):not(.disabled):active,
+.btn.btn-primary:focus, 
+.btn.btn-secondary:not(:disabled):not(.disabled).active, 
+.btn.btn-secondary:not(:disabled):not(.disabled):active,
+.btn.btn-secondary:focus {
+    border-color: #00a19a;
+}
+
+.navbar.fixed-left .navbar-brand svg path {
+    fill: #00a19a;
+}
+
+.preloader .spinner {
+    border-top-color: #00a19a;
+}
